@@ -1,1 +1,1 @@
-print('Hello slm the weirdos')
+print('SLM for the Weirdos')
